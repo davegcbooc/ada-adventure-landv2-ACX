@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns="http://www.w3.org/ns/widgets" id="org.bidlisiw.ada.app" version="0.1.0">
+    <name>Amazing Land of Adventures
+    </name>
+    <description>A game to detect any form of abuse using Q&amp;A
+    </description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org"> Apache Cordova Team 
+    </author>
+    <content src="index.html"/>
+    <allow-intent href="http://*/*"/>
+    <allow-intent href="https://*/*"/>
+    <allow-navigation href="about:*"/>
+    <preference name="loglevel" value="DEBUG"/>
+</widget>
