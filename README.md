@@ -1,8 +1,9 @@
 # ada-adventure-landv2-ACX
 the amazing world of adventure version 2
 Contributors:
-France Michael Lodonia
-Dave Gerald Booc
+
+France Michael Lodonia,
+Dave Gerald Booc,
 Irene Comoso
 
 apk link 1 : https://drive.google.com/file/d/12QMSCph6RIu7k3rSItuhXsfAIpOp4pgS/view?usp=sharing
