@@ -1,7 +1,10 @@
 # ada-adventure-landv2-ACX
 the amazing world of adventure version 2
-Contributors:
+ACX Outsourcing Hub , Bidlisiw
 
+Contributors:
+Jan Milton,
+Ferry Edpan,
 France Michael Lodonia,
 Dave Gerald Booc,
 Irene Comoso
